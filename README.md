@@ -52,3 +52,24 @@ In order to evaluate campaign performance, we focused on the following key metri
 - Across campaign categories, Golden Years Security had by far the highest cost per signup ($124), as well as the lowest number of signups (23), compared to an average of $2.2.
 - Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
 - Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
+
+# Recommendations
+
+Recommendations focus on two strategies: removing ineffective campaign categories and reallocating budget towards categories with better performance across north star metrics.
+
+- Golden Years Security: Consider discontinuing or overhauling this campaign due to its low click-through rate (1%) and high cost per signup ($177). Reallocate its budget to the Health For All Campaign, which has a stronger click-through rate (25%) and signup rate (2%).
+
+- Family Coverage Plan: Investigate the lack of clicks despite high impressions, as there are likely issues with the campaign or missing data.
+
+- Compare Health Coverage: Collaborate with the actuarial team to analyze this campaign category's demographics and health needs to ensure the campaign isn’t attracting higher-risk profiles than planned.
+
+- Health Awareness: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+
+- COVID Campaigns: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $3,70. Consider removing these campaigns altogether.
+
+ # Dashboard
+
+ The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/anupa.ninan/viz/Rowhealth_Analysis/CampaignCatDash?publish=yes). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+ <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/5a48f1ba-2023-4d99-9532-efc0c1c38d27" />
+
