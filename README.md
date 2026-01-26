@@ -1,4 +1,6 @@
-# MediPulse_Analysis
+
+# MediPulse_Analysis 
+
 
 ## Table of Contents
 
@@ -73,3 +75,6 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 
  <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/5a48f1ba-2023-4d99-9532-efc0c1c38d27" />
 
+
+# Presentation Sample
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1jfcE_HRtPxFgq-1opKZuH0EJK164pnbPJKlDHCcqGDY/edit?slide=id.g3bdffef60c7_2_268#slide=id.g3bdffef60c7_2_268). Some extracts are presented below for easy viewing.
