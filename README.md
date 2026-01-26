@@ -23,3 +23,32 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
  There are three main tables referenced, with the Entity Relationship Diagram (ERD) below:
 
  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f80415b5-48e9-48d7-87eb-d7c22207e9eb" />
+
+# Insights Summary
+
+In order to evaluate campaign performance, we focused on the following key metrics:
+
+- **Click through Rate (CTR)**: The percent of people who see a campaign and click on the associated link.
+- **Cost per Click (CPC)**: The amount an advertiser pays each time a user clicks on their advertisement.
+- **Signup Rate**: The percent of people who see a campaign and subsequently sign up for a MediPulse plan.
+- **Cost per Signup**: The average dollars spent in order to acquire a signup from each campaign.
+
+### Click through Rate
+- Across categories, Health for All and Benefit Updates performed nearly 3-4x better than the average CTR at 36% and 22%, respectively.
+- Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
+- Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
+
+### Cost per Click (CPC)
+-  Overall CPC remained relatively low across most campaign categories, indicating efficient click acquisition, with an average CPC of approximately $0.07.
+- Golden Years Security stood out with a significantly higher CPC compared to other categories, suggesting higher competition or lower engagement efficiency for this audience segment.
+- Campaign categories such as Health for All and Healthy Living achieved lower CPCs while maintaining strong click volumes, indicating more cost-effective marketing performance.
+
+### Signup Rate
+- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
+- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
+- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
+
+### Cost per Signup
+- Across campaign categories, Golden Years Security had by far the highest cost per signup ($124), as well as the lowest number of signups (23), compared to an average of $2.2.
+- Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
+- Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
