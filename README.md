@@ -73,11 +73,7 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 
  The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/anupa.ninan/viz/Rowhealth_Analysis/CampaignCatDash?publish=yes). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
-<img width="1164" height="881" alt="image" src="https://github.com/user-attachments/assets/4e560a7e-63a4-4f2d-a0ca-cce989c36b18" />
-
-
-
-
+<img width="1164" height="887" alt="image" src="https://github.com/user-attachments/assets/d50e76f9-0712-43c7-8b86-953783a85128" />
 
 
 
