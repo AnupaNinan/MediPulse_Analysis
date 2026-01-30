@@ -1,8 +1,8 @@
-<img width="100" height="100" alt="logoforgithub" src="https://github.com/user-attachments/assets/d184e7dd-c31a-478d-80b8-5b2dd24a8494" />
+<img alt="logoforgithub" src="https://github.com/user-attachments/assets/d184e7dd-c31a-478d-80b8-5b2dd24a8494" width="90" align="left"/>
 
 # MediPulse Campaign Performance Analysis 
 
-
+<br clear="left"/>
 
 ## Table of Contents
 
