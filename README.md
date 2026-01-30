@@ -82,7 +82,7 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 # Presentation Sample
 The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1jfcE_HRtPxFgq-1opKZuH0EJK164pnbPJKlDHCcqGDY/edit?slide=id.g3bdffef60c7_2_268#slide=id.g3bdffef60c7_2_268). Some extracts are presented below for easy viewing.
 
-<img width="1233" height="713" alt="image" src="https://github.com/user-attachments/assets/65ba3a13-d53e-4a71-a57f-7b9762c3debc" />
+<img width="1226" height="718" alt="image" src="https://github.com/user-attachments/assets/b9269839-7c06-432e-b887-836c125945ee" />
 
 <img width="1220" height="716" alt="image" src="https://github.com/user-attachments/assets/ba591d72-aba2-4637-aa19-a3b281cb5b36" />
 
